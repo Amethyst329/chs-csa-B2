@@ -5,6 +5,7 @@ public class GitTester {
 		// TODO Auto-generated method stub
 		System.out.println("ayy");
 		System.out.println("A line 2 demonstrate a change");
+		System.out.println("A thrild line for za teachere");
 	}
 
 }
